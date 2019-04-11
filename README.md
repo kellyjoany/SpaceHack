@@ -14,8 +14,8 @@ See you in space cowboy ...
 
 ## Tecnology
 
-Javascript
-Html5 and CSS
+Javascript,
+Html5 and CSS,
 Object-oriented programming
 
 ## Contributing
